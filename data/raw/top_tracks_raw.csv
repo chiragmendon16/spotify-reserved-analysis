@@ -1,0 +1,301 @@
+artist_id,artist_name,tier,track_id,track_name,album_name,release_date,popularity,duration_ms,explicit
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_0,The Weeknd Hit 1,The Weeknd Album,2020-01-01,94,247121,False
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_1,The Weeknd Hit 2,The Weeknd Album,2021-01-01,92,232995,True
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_2,The Weeknd Hit 3,The Weeknd Album,2021-01-01,86,245697,False
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_3,The Weeknd Hit 4,The Weeknd Album,2023-01-01,84,212606,False
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_4,The Weeknd Hit 5,The Weeknd Album,2025-01-01,90,203247,False
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_5,The Weeknd Hit 6,The Weeknd Album,2024-01-01,85,218044,False
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_6,The Weeknd Hit 7,The Weeknd Album,2020-01-01,91,182568,False
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_7,The Weeknd Hit 8,The Weeknd Album,2023-01-01,90,228190,False
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_8,The Weeknd Hit 9,The Weeknd Album,2020-01-01,90,193986,False
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,A-List Stadium,track_1Xyo4u8uXC1ZmMpatF05PJ_9,The Weeknd Hit 10,The Weeknd Album,2022-01-01,93,183561,False
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_0,Drake Hit 1,Drake Album,2020-01-01,88,188392,False
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_1,Drake Hit 2,Drake Album,2021-01-01,94,215222,False
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_2,Drake Hit 3,Drake Album,2024-01-01,92,243335,True
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_3,Drake Hit 4,Drake Album,2022-01-01,94,188110,False
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_4,Drake Hit 5,Drake Album,2020-01-01,90,186910,True
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_5,Drake Hit 6,Drake Album,2022-01-01,86,180206,False
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_6,Drake Hit 7,Drake Album,2021-01-01,82,230015,False
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_7,Drake Hit 8,Drake Album,2023-01-01,91,198141,True
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_8,Drake Hit 9,Drake Album,2024-01-01,80,213827,False
+3TVXtAsR1Inumwj472S9r4,Drake,A-List Stadium,track_3TVXtAsR1Inumwj472S9r4_9,Drake Hit 10,Drake Album,2022-01-01,76,202299,False
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_0,Taylor Swift Hit 1,Taylor Swift Album,2024-01-01,87,249163,False
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_1,Taylor Swift Hit 2,Taylor Swift Album,2025-01-01,82,198047,False
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_2,Taylor Swift Hit 3,Taylor Swift Album,2023-01-01,86,203776,True
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_3,Taylor Swift Hit 4,Taylor Swift Album,2022-01-01,73,235016,False
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_4,Taylor Swift Hit 5,Taylor Swift Album,2025-01-01,85,185530,False
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_5,Taylor Swift Hit 6,Taylor Swift Album,2024-01-01,92,193545,False
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_6,Taylor Swift Hit 7,Taylor Swift Album,2022-01-01,84,234384,True
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_7,Taylor Swift Hit 8,Taylor Swift Album,2021-01-01,73,232733,False
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_8,Taylor Swift Hit 9,Taylor Swift Album,2022-01-01,76,247172,True
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,A-List Stadium,track_06HL4z0CvFAxyc27GXpf02_9,Taylor Swift Hit 10,Taylor Swift Album,2020-01-01,76,180854,True
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_0,J. Cole Hit 1,J. Cole Album,2020-01-01,97,226717,True
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_1,J. Cole Hit 2,J. Cole Album,2023-01-01,92,243734,False
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_2,J. Cole Hit 3,J. Cole Album,2022-01-01,81,205342,False
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_3,J. Cole Hit 4,J. Cole Album,2024-01-01,78,245733,False
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_4,J. Cole Hit 5,J. Cole Album,2020-01-01,89,222107,False
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_5,J. Cole Hit 6,J. Cole Album,2024-01-01,95,229811,False
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_6,J. Cole Hit 7,J. Cole Album,2023-01-01,79,214754,False
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_7,J. Cole Hit 8,J. Cole Album,2023-01-01,91,188680,False
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_8,J. Cole Hit 9,J. Cole Album,2021-01-01,90,217504,False
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,A-List Stadium,track_6l3HvQ5sa6mXTsMTB19rO5_9,J. Cole Hit 10,J. Cole Album,2020-01-01,80,227254,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_0,Ed Sheeran Hit 1,Ed Sheeran Album,2021-01-01,91,196646,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_1,Ed Sheeran Hit 2,Ed Sheeran Album,2021-01-01,78,196371,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_2,Ed Sheeran Hit 3,Ed Sheeran Album,2021-01-01,93,200932,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_3,Ed Sheeran Hit 4,Ed Sheeran Album,2022-01-01,85,187400,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_4,Ed Sheeran Hit 5,Ed Sheeran Album,2022-01-01,74,186295,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_5,Ed Sheeran Hit 6,Ed Sheeran Album,2020-01-01,74,192874,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_6,Ed Sheeran Hit 7,Ed Sheeran Album,2023-01-01,88,233351,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_7,Ed Sheeran Hit 8,Ed Sheeran Album,2022-01-01,78,182557,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_8,Ed Sheeran Hit 9,Ed Sheeran Album,2020-01-01,76,226975,False
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,A-List Stadium,track_6eUKZXaKkcviH0Ku9w2n3V_9,Ed Sheeran Hit 10,Ed Sheeran Album,2021-01-01,91,241135,False
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_0,Post Malone Hit 1,Post Malone Album,2023-01-01,87,218467,True
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_1,Post Malone Hit 2,Post Malone Album,2024-01-01,72,183987,False
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_2,Post Malone Hit 3,Post Malone Album,2022-01-01,71,224064,False
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_3,Post Malone Hit 4,Post Malone Album,2022-01-01,69,225525,True
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_4,Post Malone Hit 5,Post Malone Album,2025-01-01,82,227333,False
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_5,Post Malone Hit 6,Post Malone Album,2025-01-01,80,199738,False
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_6,Post Malone Hit 7,Post Malone Album,2024-01-01,87,219790,False
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_7,Post Malone Hit 8,Post Malone Album,2024-01-01,72,225714,False
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_8,Post Malone Hit 9,Post Malone Album,2020-01-01,71,236491,False
+246dkjvS1zLTtiykXe5h60,Post Malone,Mainstream,track_246dkjvS1zLTtiykXe5h60_9,Post Malone Hit 10,Post Malone Album,2024-01-01,74,216212,False
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_0,SZA Hit 1,SZA Album,2023-01-01,76,213828,False
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_1,SZA Hit 2,SZA Album,2020-01-01,71,225236,False
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_2,SZA Hit 3,SZA Album,2023-01-01,84,245726,False
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_3,SZA Hit 4,SZA Album,2020-01-01,82,206641,False
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_4,SZA Hit 5,SZA Album,2025-01-01,82,231885,True
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_5,SZA Hit 6,SZA Album,2025-01-01,83,236958,False
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_6,SZA Hit 7,SZA Album,2021-01-01,68,207751,False
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_7,SZA Hit 8,SZA Album,2022-01-01,69,234748,True
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_8,SZA Hit 9,SZA Album,2021-01-01,82,230993,False
+7tYKF4w9nC0nq9CsPZTHyP,SZA,Mainstream,track_7tYKF4w9nC0nq9CsPZTHyP_9,SZA Hit 10,SZA Album,2024-01-01,78,182368,True
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_0,Doja Cat Hit 1,Doja Cat Album,2025-01-01,72,235766,True
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_1,Doja Cat Hit 2,Doja Cat Album,2021-01-01,86,190966,False
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_2,Doja Cat Hit 3,Doja Cat Album,2022-01-01,71,233006,False
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_3,Doja Cat Hit 4,Doja Cat Album,2023-01-01,83,199508,True
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_4,Doja Cat Hit 5,Doja Cat Album,2023-01-01,83,234021,True
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_5,Doja Cat Hit 6,Doja Cat Album,2023-01-01,73,219734,True
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_6,Doja Cat Hit 7,Doja Cat Album,2024-01-01,70,197019,False
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_7,Doja Cat Hit 8,Doja Cat Album,2022-01-01,71,208251,False
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_8,Doja Cat Hit 9,Doja Cat Album,2021-01-01,83,212217,False
+6M2wZ9GZgrQXHCFfjv46we,Doja Cat,Mainstream,track_6M2wZ9GZgrQXHCFfjv46we_9,Doja Cat Hit 10,Doja Cat Album,2020-01-01,76,246617,False
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_0,Bad Bunny Hit 1,Bad Bunny Album,2021-01-01,70,200056,False
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_1,Bad Bunny Hit 2,Bad Bunny Album,2024-01-01,85,183343,False
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_2,Bad Bunny Hit 3,Bad Bunny Album,2024-01-01,83,247215,True
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_3,Bad Bunny Hit 4,Bad Bunny Album,2025-01-01,72,189435,True
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_4,Bad Bunny Hit 5,Bad Bunny Album,2020-01-01,72,240403,True
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_5,Bad Bunny Hit 6,Bad Bunny Album,2021-01-01,70,242752,False
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_6,Bad Bunny Hit 7,Bad Bunny Album,2024-01-01,76,248385,True
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_7,Bad Bunny Hit 8,Bad Bunny Album,2021-01-01,67,189823,False
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_8,Bad Bunny Hit 9,Bad Bunny Album,2024-01-01,73,184611,False
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,Mainstream,track_4q3ewBCX7sLwd24euuV69X_9,Bad Bunny Hit 10,Bad Bunny Album,2021-01-01,69,229115,False
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_0,Harry Styles Hit 1,Harry Styles Album,2022-01-01,65,198071,False
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_1,Harry Styles Hit 2,Harry Styles Album,2022-01-01,84,184000,False
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_2,Harry Styles Hit 3,Harry Styles Album,2022-01-01,80,218304,False
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_3,Harry Styles Hit 4,Harry Styles Album,2022-01-01,73,200764,True
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_4,Harry Styles Hit 5,Harry Styles Album,2025-01-01,83,207350,True
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_5,Harry Styles Hit 6,Harry Styles Album,2024-01-01,75,245953,True
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_6,Harry Styles Hit 7,Harry Styles Album,2023-01-01,67,206092,False
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_7,Harry Styles Hit 8,Harry Styles Album,2023-01-01,81,224425,False
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_8,Harry Styles Hit 9,Harry Styles Album,2022-01-01,68,197955,False
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,Mainstream,track_6KImCVD70vtIoJWnq6nGn3_9,Harry Styles Hit 10,Harry Styles Album,2025-01-01,80,224811,False
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_0,Olivia Rodrigo Hit 1,Olivia Rodrigo Album,2024-01-01,87,201352,False
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_1,Olivia Rodrigo Hit 2,Olivia Rodrigo Album,2020-01-01,70,226959,False
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_2,Olivia Rodrigo Hit 3,Olivia Rodrigo Album,2024-01-01,71,227280,True
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_3,Olivia Rodrigo Hit 4,Olivia Rodrigo Album,2024-01-01,81,204466,True
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_4,Olivia Rodrigo Hit 5,Olivia Rodrigo Album,2023-01-01,76,231934,False
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_5,Olivia Rodrigo Hit 6,Olivia Rodrigo Album,2022-01-01,75,188335,False
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_6,Olivia Rodrigo Hit 7,Olivia Rodrigo Album,2022-01-01,78,191130,True
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_7,Olivia Rodrigo Hit 8,Olivia Rodrigo Album,2024-01-01,74,207192,True
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_8,Olivia Rodrigo Hit 9,Olivia Rodrigo Album,2024-01-01,80,201689,True
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,Mainstream,track_1McMsnEElThX1knmY4oliG_9,Olivia Rodrigo Hit 10,Olivia Rodrigo Album,2021-01-01,85,203714,False
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_0,Kanye West Hit 1,Kanye West Album,2022-01-01,78,186801,False
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_1,Kanye West Hit 2,Kanye West Album,2020-01-01,79,224261,True
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_2,Kanye West Hit 3,Kanye West Album,2024-01-01,81,219081,False
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_3,Kanye West Hit 4,Kanye West Album,2022-01-01,87,234693,False
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_4,Kanye West Hit 5,Kanye West Album,2024-01-01,88,237854,False
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_5,Kanye West Hit 6,Kanye West Album,2024-01-01,85,215909,False
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_6,Kanye West Hit 7,Kanye West Album,2022-01-01,77,206790,False
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_7,Kanye West Hit 8,Kanye West Album,2021-01-01,70,195485,False
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_8,Kanye West Hit 9,Kanye West Album,2024-01-01,71,189435,False
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mainstream,track_5K4W6rqBFWDnAN6FQUkS6x_9,Kanye West Hit 10,Kanye West Album,2023-01-01,81,193116,False
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_0,Adele Hit 1,Adele Album,2020-01-01,87,241629,False
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_1,Adele Hit 2,Adele Album,2023-01-01,73,203960,False
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_2,Adele Hit 3,Adele Album,2025-01-01,84,247641,True
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_3,Adele Hit 4,Adele Album,2024-01-01,75,200559,False
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_4,Adele Hit 5,Adele Album,2022-01-01,85,210354,False
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_5,Adele Hit 6,Adele Album,2021-01-01,75,197640,True
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_6,Adele Hit 7,Adele Album,2020-01-01,87,199087,False
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_7,Adele Hit 8,Adele Album,2022-01-01,78,190975,True
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_8,Adele Hit 9,Adele Album,2025-01-01,78,203959,False
+4dpARuHxo51G3z768sgnrY,Adele,Mainstream,track_4dpARuHxo51G3z768sgnrY_9,Adele Hit 10,Adele Album,2021-01-01,86,241529,False
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_0,Steve Lacy Hit 1,Steve Lacy Album,2023-01-01,62,213307,True
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_1,Steve Lacy Hit 2,Steve Lacy Album,2020-01-01,76,200159,False
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_2,Steve Lacy Hit 3,Steve Lacy Album,2020-01-01,71,235284,False
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_3,Steve Lacy Hit 4,Steve Lacy Album,2023-01-01,64,207532,False
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_4,Steve Lacy Hit 5,Steve Lacy Album,2024-01-01,74,185713,False
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_5,Steve Lacy Hit 6,Steve Lacy Album,2024-01-01,65,245545,False
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_6,Steve Lacy Hit 7,Steve Lacy Album,2021-01-01,67,217892,True
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_7,Steve Lacy Hit 8,Steve Lacy Album,2020-01-01,79,188415,False
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_8,Steve Lacy Hit 9,Steve Lacy Album,2022-01-01,63,226540,True
+4LLpKhyESsyAXpc4laK94U,Steve Lacy,Mid-Size,track_4LLpKhyESsyAXpc4laK94U_9,Steve Lacy Hit 10,Steve Lacy Album,2020-01-01,77,188702,True
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_0,Omar Apollo Hit 1,Omar Apollo Album,2025-01-01,63,240100,False
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_1,Omar Apollo Hit 2,Omar Apollo Album,2025-01-01,77,230612,False
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_2,Omar Apollo Hit 3,Omar Apollo Album,2024-01-01,75,184809,False
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_3,Omar Apollo Hit 4,Omar Apollo Album,2020-01-01,66,218765,True
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_4,Omar Apollo Hit 5,Omar Apollo Album,2024-01-01,67,237091,True
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_5,Omar Apollo Hit 6,Omar Apollo Album,2020-01-01,72,216187,True
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_6,Omar Apollo Hit 7,Omar Apollo Album,2021-01-01,78,241877,False
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_7,Omar Apollo Hit 8,Omar Apollo Album,2022-01-01,62,217131,False
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_8,Omar Apollo Hit 9,Omar Apollo Album,2023-01-01,75,204285,False
+738wLrAtLtCtFqdk3lAkpQ,Omar Apollo,Mid-Size,track_738wLrAtLtCtFqdk3lAkpQ_9,Omar Apollo Hit 10,Omar Apollo Album,2020-01-01,64,199198,True
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_0,Arlo Parks Hit 1,Arlo Parks Album,2024-01-01,54,217441,False
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_1,Arlo Parks Hit 2,Arlo Parks Album,2025-01-01,66,186949,False
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_2,Arlo Parks Hit 3,Arlo Parks Album,2021-01-01,53,203386,True
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_3,Arlo Parks Hit 4,Arlo Parks Album,2021-01-01,48,233413,False
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_4,Arlo Parks Hit 5,Arlo Parks Album,2023-01-01,58,223088,False
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_5,Arlo Parks Hit 6,Arlo Parks Album,2023-01-01,58,235479,False
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_6,Arlo Parks Hit 7,Arlo Parks Album,2020-01-01,48,194388,False
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_7,Arlo Parks Hit 8,Arlo Parks Album,2025-01-01,57,192015,False
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_8,Arlo Parks Hit 9,Arlo Parks Album,2020-01-01,52,186090,True
+2FXC3k01G6Gw61bmprjgqS,Arlo Parks,Mid-Size,track_2FXC3k01G6Gw61bmprjgqS_9,Arlo Parks Hit 10,Arlo Parks Album,2023-01-01,60,221240,False
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_0,Conan Gray Hit 1,Conan Gray Album,2022-01-01,50,208732,True
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_1,Conan Gray Hit 2,Conan Gray Album,2022-01-01,63,216668,True
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_2,Conan Gray Hit 3,Conan Gray Album,2025-01-01,67,196907,True
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_3,Conan Gray Hit 4,Conan Gray Album,2021-01-01,51,203624,True
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_4,Conan Gray Hit 5,Conan Gray Album,2020-01-01,53,235645,True
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_5,Conan Gray Hit 6,Conan Gray Album,2024-01-01,51,244291,False
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_6,Conan Gray Hit 7,Conan Gray Album,2020-01-01,65,230428,False
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_7,Conan Gray Hit 8,Conan Gray Album,2025-01-01,54,208699,False
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_8,Conan Gray Hit 9,Conan Gray Album,2021-01-01,55,184621,True
+45eNHdiiAjOwp6L4D4228I,Conan Gray,Mid-Size,track_45eNHdiiAjOwp6L4D4228I_9,Conan Gray Hit 10,Conan Gray Album,2022-01-01,61,185122,False
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_0,Tame Impala Hit 1,Tame Impala Album,2025-01-01,57,218638,True
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_1,Tame Impala Hit 2,Tame Impala Album,2021-01-01,62,214674,True
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_2,Tame Impala Hit 3,Tame Impala Album,2020-01-01,63,190267,True
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_3,Tame Impala Hit 4,Tame Impala Album,2020-01-01,51,186229,False
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_4,Tame Impala Hit 5,Tame Impala Album,2023-01-01,51,183596,False
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_5,Tame Impala Hit 6,Tame Impala Album,2023-01-01,58,206734,False
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_6,Tame Impala Hit 7,Tame Impala Album,2025-01-01,66,192910,False
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_7,Tame Impala Hit 8,Tame Impala Album,2020-01-01,56,240004,False
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_8,Tame Impala Hit 9,Tame Impala Album,2021-01-01,66,197260,False
+5LHRHt1k9lMyONurDHEdrp,Tame Impala,Mid-Size,track_5LHRHt1k9lMyONurDHEdrp_9,Tame Impala Hit 10,Tame Impala Album,2020-01-01,67,207285,True
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_0,Remi Wolf Hit 1,Remi Wolf Album,2025-01-01,54,207139,False
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_1,Remi Wolf Hit 2,Remi Wolf Album,2025-01-01,61,193046,True
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_2,Remi Wolf Hit 3,Remi Wolf Album,2024-01-01,66,189111,True
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_3,Remi Wolf Hit 4,Remi Wolf Album,2021-01-01,50,208746,False
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_4,Remi Wolf Hit 5,Remi Wolf Album,2025-01-01,53,193234,False
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_5,Remi Wolf Hit 6,Remi Wolf Album,2021-01-01,55,190954,False
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_6,Remi Wolf Hit 7,Remi Wolf Album,2022-01-01,57,186469,False
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_7,Remi Wolf Hit 8,Remi Wolf Album,2023-01-01,51,238067,False
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_8,Remi Wolf Hit 9,Remi Wolf Album,2020-01-01,58,247584,False
+3WGpXCj9YhhfX11TToZcXP,Remi Wolf,Mid-Size,track_3WGpXCj9YhhfX11TToZcXP_9,Remi Wolf Hit 10,Remi Wolf Album,2025-01-01,65,181917,True
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_0,Phoebe Bridgers Hit 1,Phoebe Bridgers Album,2023-01-01,59,227362,True
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_1,Phoebe Bridgers Hit 2,Phoebe Bridgers Album,2021-01-01,62,189865,False
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_2,Phoebe Bridgers Hit 3,Phoebe Bridgers Album,2024-01-01,64,214387,True
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_3,Phoebe Bridgers Hit 4,Phoebe Bridgers Album,2024-01-01,63,199216,True
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_4,Phoebe Bridgers Hit 5,Phoebe Bridgers Album,2025-01-01,69,222078,False
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_5,Phoebe Bridgers Hit 6,Phoebe Bridgers Album,2025-01-01,60,222929,True
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_6,Phoebe Bridgers Hit 7,Phoebe Bridgers Album,2022-01-01,63,245441,True
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_7,Phoebe Bridgers Hit 8,Phoebe Bridgers Album,2022-01-01,71,185415,False
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_8,Phoebe Bridgers Hit 9,Phoebe Bridgers Album,2023-01-01,64,221832,False
+7Hjbimq43OgxaBRpFXic4x,Phoebe Bridgers,Mid-Size,track_7Hjbimq43OgxaBRpFXic4x_9,Phoebe Bridgers Hit 10,Phoebe Bridgers Album,2023-01-01,69,195524,False
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_0,Rex Orange County Hit 1,Rex Orange County Album,2022-01-01,55,200611,False
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_1,Rex Orange County Hit 2,Rex Orange County Album,2021-01-01,51,223303,False
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_2,Rex Orange County Hit 3,Rex Orange County Album,2025-01-01,50,198574,False
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_3,Rex Orange County Hit 4,Rex Orange County Album,2020-01-01,68,191246,False
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_4,Rex Orange County Hit 5,Rex Orange County Album,2025-01-01,61,184018,False
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_5,Rex Orange County Hit 6,Rex Orange County Album,2025-01-01,63,204519,False
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_6,Rex Orange County Hit 7,Rex Orange County Album,2023-01-01,54,185408,False
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_7,Rex Orange County Hit 8,Rex Orange County Album,2022-01-01,65,231356,True
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_8,Rex Orange County Hit 9,Rex Orange County Album,2020-01-01,64,212154,False
+3nFkdlSjzX9mRTtwJOb70,Rex Orange County,Mid-Size,track_3nFkdlSjzX9mRTtwJOb70_9,Rex Orange County Hit 10,Rex Orange County Album,2025-01-01,65,199029,False
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_0,Lil Uzi Vert Hit 1,Lil Uzi Vert Album,2024-01-01,67,223872,True
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_1,Lil Uzi Vert Hit 2,Lil Uzi Vert Album,2024-01-01,62,244435,False
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_2,Lil Uzi Vert Hit 3,Lil Uzi Vert Album,2024-01-01,69,244772,False
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_3,Lil Uzi Vert Hit 4,Lil Uzi Vert Album,2023-01-01,65,183756,False
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_4,Lil Uzi Vert Hit 5,Lil Uzi Vert Album,2022-01-01,58,194153,False
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_5,Lil Uzi Vert Hit 6,Lil Uzi Vert Album,2025-01-01,69,235318,False
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_6,Lil Uzi Vert Hit 7,Lil Uzi Vert Album,2025-01-01,66,182443,False
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_7,Lil Uzi Vert Hit 8,Lil Uzi Vert Album,2025-01-01,59,197368,True
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_8,Lil Uzi Vert Hit 9,Lil Uzi Vert Album,2023-01-01,66,219915,False
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Uzi Vert,Mid-Size,track_7sfl4Xt5KmfyDs2T3SVSMK_9,Lil Uzi Vert Hit 10,Lil Uzi Vert Album,2023-01-01,72,240279,True
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_0,Travis Scott Hit 1,Travis Scott Album,2021-01-01,50,245310,False
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_1,Travis Scott Hit 2,Travis Scott Album,2025-01-01,48,224327,False
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_2,Travis Scott Hit 3,Travis Scott Album,2022-01-01,66,202116,False
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_3,Travis Scott Hit 4,Travis Scott Album,2025-01-01,63,199256,False
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_4,Travis Scott Hit 5,Travis Scott Album,2025-01-01,48,243374,False
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_5,Travis Scott Hit 6,Travis Scott Album,2020-01-01,58,237545,False
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_6,Travis Scott Hit 7,Travis Scott Album,2024-01-01,58,220738,False
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_7,Travis Scott Hit 8,Travis Scott Album,2020-01-01,56,188577,False
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_8,Travis Scott Hit 9,Travis Scott Album,2022-01-01,65,216368,False
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Mid-Size,track_0Y5tJX1MQlPlqiwlOH1tJY_9,Travis Scott Hit 10,Travis Scott Album,2022-01-01,55,247526,True
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_0,Faye Webster Hit 1,Faye Webster Album,2024-01-01,58,217148,False
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_1,Faye Webster Hit 2,Faye Webster Album,2025-01-01,41,207696,True
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_2,Faye Webster Hit 3,Faye Webster Album,2023-01-01,50,229840,False
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_3,Faye Webster Hit 4,Faye Webster Album,2025-01-01,51,200806,False
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_4,Faye Webster Hit 5,Faye Webster Album,2024-01-01,40,204442,False
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_5,Faye Webster Hit 6,Faye Webster Album,2025-01-01,42,222460,False
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_6,Faye Webster Hit 7,Faye Webster Album,2022-01-01,41,213536,False
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_7,Faye Webster Hit 8,Faye Webster Album,2021-01-01,57,186645,False
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_8,Faye Webster Hit 9,Faye Webster Album,2021-01-01,53,205522,True
+4NZvixzsSefsNiIqXn0NDe,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe_9,Faye Webster Hit 10,Faye Webster Album,2020-01-01,51,192342,False
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_0,Maude Latour Hit 1,Maude Latour Album,2021-01-01,45,232603,False
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_1,Maude Latour Hit 2,Maude Latour Album,2023-01-01,37,235106,True
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_2,Maude Latour Hit 3,Maude Latour Album,2022-01-01,47,236373,False
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_3,Maude Latour Hit 4,Maude Latour Album,2024-01-01,52,219986,False
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_4,Maude Latour Hit 5,Maude Latour Album,2021-01-01,52,214911,False
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_5,Maude Latour Hit 6,Maude Latour Album,2025-01-01,44,192175,False
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_6,Maude Latour Hit 7,Maude Latour Album,2024-01-01,41,246358,False
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_7,Maude Latour Hit 8,Maude Latour Album,2021-01-01,48,196032,True
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_8,Maude Latour Hit 9,Maude Latour Album,2022-01-01,39,216220,False
+0c173mlxpT3ui454x5F8mR,Maude Latour,Developing,track_0c173mlxpT3ui454x5F8mR_9,Maude Latour Hit 10,Maude Latour Album,2024-01-01,37,188705,False
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_0,Samia Hit 1,Samia Album,2024-01-01,34,195358,False
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_1,Samia Hit 2,Samia Album,2023-01-01,34,194596,False
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_2,Samia Hit 3,Samia Album,2025-01-01,45,242516,True
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_3,Samia Hit 4,Samia Album,2023-01-01,42,209975,True
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_4,Samia Hit 5,Samia Album,2025-01-01,40,217599,False
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_5,Samia Hit 6,Samia Album,2022-01-01,37,182573,False
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_6,Samia Hit 7,Samia Album,2021-01-01,41,240774,True
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_7,Samia Hit 8,Samia Album,2025-01-01,43,231693,False
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_8,Samia Hit 9,Samia Album,2021-01-01,41,236133,False
+3CZqomH6KpJZBqQGzMqDh4,Samia,Developing,track_3CZqomH6KpJZBqQGzMqDh4_9,Samia Hit 10,Samia Album,2024-01-01,44,218243,False
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_0,Mk.gee Hit 1,Mk.gee Album,2021-01-01,48,202180,False
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_1,Mk.gee Hit 2,Mk.gee Album,2021-01-01,53,181622,True
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_2,Mk.gee Hit 3,Mk.gee Album,2025-01-01,59,209402,False
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_3,Mk.gee Hit 4,Mk.gee Album,2023-01-01,52,227924,True
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_4,Mk.gee Hit 5,Mk.gee Album,2024-01-01,48,215737,False
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_5,Mk.gee Hit 6,Mk.gee Album,2025-01-01,51,218709,False
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_6,Mk.gee Hit 7,Mk.gee Album,2022-01-01,61,233276,False
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_7,Mk.gee Hit 8,Mk.gee Album,2022-01-01,61,204762,True
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_8,Mk.gee Hit 9,Mk.gee Album,2022-01-01,63,233302,False
+1ASIN6bRNMnkSq8J1F9S4r,Mk.gee,Developing,track_1ASIN6bRNMnkSq8J1F9S4r_9,Mk.gee Hit 10,Mk.gee Album,2025-01-01,60,201792,True
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_0,Ethel Cain Hit 1,Ethel Cain Album,2023-01-01,38,247298,False
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_1,Ethel Cain Hit 2,Ethel Cain Album,2020-01-01,44,218890,False
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_2,Ethel Cain Hit 3,Ethel Cain Album,2021-01-01,55,181524,False
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_3,Ethel Cain Hit 4,Ethel Cain Album,2020-01-01,56,214008,False
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_4,Ethel Cain Hit 5,Ethel Cain Album,2021-01-01,50,204354,False
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_5,Ethel Cain Hit 6,Ethel Cain Album,2024-01-01,45,200581,False
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_6,Ethel Cain Hit 7,Ethel Cain Album,2022-01-01,52,249626,False
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_7,Ethel Cain Hit 8,Ethel Cain Album,2020-01-01,47,216408,False
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_8,Ethel Cain Hit 9,Ethel Cain Album,2023-01-01,41,180338,False
+0YrpP0JTNKlbON61fOqI2k,Ethel Cain,Developing,track_0YrpP0JTNKlbON61fOqI2k_9,Ethel Cain Hit 10,Ethel Cain Album,2024-01-01,40,181750,False
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_0,Gracie Abrams Hit 1,Gracie Abrams Album,2025-01-01,55,195896,False
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_1,Gracie Abrams Hit 2,Gracie Abrams Album,2023-01-01,48,207935,False
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_2,Gracie Abrams Hit 3,Gracie Abrams Album,2020-01-01,56,224813,True
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_3,Gracie Abrams Hit 4,Gracie Abrams Album,2020-01-01,44,221786,False
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_4,Gracie Abrams Hit 5,Gracie Abrams Album,2021-01-01,43,205510,False
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_5,Gracie Abrams Hit 6,Gracie Abrams Album,2022-01-01,53,246150,True
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_6,Gracie Abrams Hit 7,Gracie Abrams Album,2022-01-01,51,237132,True
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_7,Gracie Abrams Hit 8,Gracie Abrams Album,2024-01-01,52,182983,False
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_8,Gracie Abrams Hit 9,Gracie Abrams Album,2023-01-01,56,236846,False
+5a2EaR3hamoenG9rDuLzsL,Gracie Abrams,Developing,track_5a2EaR3hamoenG9rDuLzsL_9,Gracie Abrams Hit 10,Gracie Abrams Album,2023-01-01,50,207345,False
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_0,Faye Webster Hit 1,Faye Webster Album,2024-01-01,54,232393,False
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_1,Faye Webster Hit 2,Faye Webster Album,2022-01-01,51,207788,False
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_2,Faye Webster Hit 3,Faye Webster Album,2022-01-01,57,196371,True
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_3,Faye Webster Hit 4,Faye Webster Album,2020-01-01,52,192984,False
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_4,Faye Webster Hit 5,Faye Webster Album,2023-01-01,49,190616,False
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_5,Faye Webster Hit 6,Faye Webster Album,2020-01-01,57,192676,False
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_6,Faye Webster Hit 7,Faye Webster Album,2020-01-01,61,213933,True
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_7,Faye Webster Hit 8,Faye Webster Album,2021-01-01,60,212913,True
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_8,Faye Webster Hit 9,Faye Webster Album,2020-01-01,48,215400,True
+4NZvixzsSefsNiIqXn0NDe2,Faye Webster,Developing,track_4NZvixzsSefsNiIqXn0NDe2_9,Faye Webster Hit 10,Faye Webster Album,2020-01-01,60,223001,False
