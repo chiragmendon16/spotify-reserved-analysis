@@ -118,4 +118,4 @@ jupyter notebook notebooks/
 
 This is a portfolio project built to demonstrate data analysis and business analysis skills in the context of a real, live product announcement. All data used is publicly available. This project is not affiliated with or endorsed by Spotify AB.
 
-**Connect:** [Your LinkedIn] · [Your Email]
+**Connect:** [LinkedIn](https://www.linkedin.com/in/chirag-mendon-14b1a02b4/) · [Email](mailto:chiragmndnprsnl2004@gmail.com)
