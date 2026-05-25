@@ -50,13 +50,19 @@ spotify-reserved-analysis/
 ├── docs/
 │   └── 01_business_understanding.md  ← Phase 1 complete
 │
+├── charts/
+│   ├── Artist Segmentation Charts
+│   ├── EDA charts      
+│   ├── Financial Impacting charts
+│   ├── Superfan Scoring Model Charts
+│
 ├── data/
 │   ├── raw/                           ← Original downloaded data
 │   └── processed/                     ← Cleaned, analysis-ready data
 │
 ├── notebooks/
-│   ├── 01_data_collection.ipynb       ← Phase 2
-│   ├── 02_eda.ipynb                   ← Phase 3
+│   ├── 01_data_collection.ipynb       ← Phase 2 complete
+│   ├── 02_eda.ipynb                   ← Phase 3 complete
 │   ├── 03_superfan_scoring_model.ipynb
 │   ├── 04_artist_segmentation.ipynb
 │   └── 05_financial_impact_model.ipynb
