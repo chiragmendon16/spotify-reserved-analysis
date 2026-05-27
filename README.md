@@ -136,6 +136,6 @@ This is a portfolio project built to demonstrate data analysis and business anal
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Chirag Mendon**, a Data Analyst passionate about translating complex data into actionable business strategies. I specialize in Python, SQL, and Tableau, with a strong focus on product analytics and business intelligence. I built this project to showcase my ability to tackle real-world business problems end-to-end—from data engineering and statistical modelling to building executive-level dashboards.
+Hi, I'm **Chirag Mendon**, a Data Analyst passionate about translating complex data into actionable business strategies. I specialize in Python, SQL, and Tableau, with a strong focus on product analytics and business intelligence. I built this project to showcase my ability to tackle real-world business problems end-to-end from data engineering and statistical modelling to building executive-level dashboards.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/chirag-mendon-14b1a02b4/) · [Email](mailto:chiragmndnprsnl2004@gmail.com)
