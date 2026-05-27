@@ -76,7 +76,7 @@ spotify-reserved-analysis/
 ## Data Sources
 
 | Source | Used for | Access | Quality |
-|---|---|---|
+|---|---|---|---|
 | Python Synthetic Data Generaton | Artist features, audio features, popularity scores | Free developer account | High |
 | Simulated Listener Pool | 30,000 listener records with 6 engagement signals | Constructed | Controlled |
 | Spotify Investor Relations | Q1 2026 earnings, ARPU, subscriber counts | Free download | High | 
