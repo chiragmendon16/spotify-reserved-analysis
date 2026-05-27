@@ -59,6 +59,7 @@ spotify-reserved-analysis/
 ├── data/
 │   ├── raw/                           ← Original downloaded data
 │   └── processed/                     ← Cleaned, analysis-ready data
+│   └── data_generation                ← Spotify Real Data Generation py file
 │
 ├── notebooks/
 │   ├── 01_data_collection.ipynb       ← Phase 2 complete
@@ -130,5 +131,11 @@ jupyter notebook notebooks/
 ## About This Project
 
 This is a portfolio project built to demonstrate data analysis and business analysis skills in the context of a real, live product announcement. All data used is publicly available. This project is not affiliated with or endorsed by Spotify AB.
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Chirag Mendon**, a Data Analyst passionate about translating complex data into actionable business strategies. I specialize in Python, SQL, and Tableau, with a strong focus on product analytics and business intelligence. I built this project to showcase my ability to tackle real-world business problems end-to-end—from data engineering and statistical modelling to building executive-level dashboards.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/chirag-mendon-14b1a02b4/) · [Email](mailto:chiragmndnprsnl2004@gmail.com)
