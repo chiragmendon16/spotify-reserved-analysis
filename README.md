@@ -4,13 +4,13 @@
 
 **Tools:** Python · Pandas · Scikit-learn · Spotify Web API · Tableau · SQL  
 **Type:** Data Analysis · Business Analysis · Product Analytics  
-**Status:** Phase 1 Complete — Phase 2 In Progress  
+**Status:** All the Phases are Completed 
 
 ---
 
 ## Project Overview
 
-On May 21 2026, Spotify announced **Reserved** at its Investor Day — a feature for Premium subscribers that identifies superfans based on listening behaviour (streams, saves, shares) and holds two concert tickets for them before general public sale, in partnership with Live Nation.
+On May 21 2026, Spotify announced **Reserved** at its Investor Day - a feature for Premium subscribers that identifies superfans based on listening behaviour (streams, saves, shares) and holds two concert tickets for them before general public sale, in partnership with Live Nation.
 
 This project answers 7 core business questions about how Reserved works, how it should be measured, and what risks and opportunities exist as it scales.
 
@@ -46,6 +46,7 @@ This project answers 7 core business questions about how Reserved works, how it 
 spotify-reserved-analysis/
 │
 ├── README.md                          ← You are here
+├── Requirements.txt
 │
 ├── docs/
 │   └── 01_business_understanding.md  ← Phase 1 complete
@@ -106,9 +107,8 @@ cd spotify-reserved-analysis
 # Install dependencies
 pip install -r requirements.txt
 
-# Set up Spotify API credentials
-# Create a .env file with your CLIENT_ID and CLIENT_SECRET from developer.spotify.com
-cp .env.example .env
+# Set up Spotify Data
+# Run the py file from the data folder 
 
 # Open notebooks
 jupyter notebook notebooks/
