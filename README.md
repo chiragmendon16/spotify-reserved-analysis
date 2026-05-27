@@ -67,9 +67,6 @@ spotify-reserved-analysis/
 │   ├── 04_artist_segmentation.ipynb
 │   └── 05_financial_impact_model.ipynb
 │
-├── dashboard/
-│   └──📊 <a href="https://public.tableau.com/app/profile/chirag.mendon/viz/SpotifyReservedTicketingAnalysis/SpotifyReserved-ArtistOverviewDashboard?             │            publish=yes">Click Here to View the Interactive Tableau Dashboard</a>
-│
 └── report/
     └── spotify_reserved_insights.pdf  ← Final report (Phase 5)
 ```
@@ -78,13 +75,12 @@ spotify-reserved-analysis/
 
 ## Data Sources
 
-| Source | Used for | Access |
+| Source | Used for | Access | Quality |
 |---|---|---|
-| Spotify Web API | Artist features, audio features, popularity scores | Free developer account |
-| Spotify Charts (charts.spotify.com) | Weekly stream counts by country | Public CSV download |
-| Kaggle — Spotify Tracks Dataset | 600K+ track-level dataset with audio features | Free download |
-| Songkick API | Concert tour dates and venue capacity | Free API key |
-| Spotify Investor Relations (Q1 2026) | Business metrics, subscriber counts | Public |
+| Python Synthetic Data Generaton | Artist features, audio features, popularity scores | Free developer account | High |
+| Simulated Listener Pool | 30,000 listener records with 6 engagement signals | Constructed | Controlled |
+| Spotify Investor Relations | Q1 2026 earnings, ARPU, subscriber counts | Free download | High | 
+| Industry Benchmarks | Concert fill rates, in-venue spend, acceptance rates | Published | Medium |
 
 ---
 
@@ -124,10 +120,10 @@ jupyter notebook notebooks/
 | Phase | Description | Status |
 |---|---|---|
 | Phase 1 | Business understanding, problem statement, KPIs | Complete |
-| Phase 2 | Data collection and cleaning | In Progress |
-| Phase 3 | Analysis and modelling | Upcoming |
-| Phase 4 | Dashboard and visualisation | Upcoming |
-| Phase 5 | Report and portfolio packaging | Upcoming |
+| Phase 2 | Data collection and cleaning | Complete |
+| Phase 3 | Analysis and modelling | Complete |
+| Phase 4 | Dashboard and visualisation | Complete |
+| Phase 5 | Report and portfolio packaging | Complete |
 
 ---
 
