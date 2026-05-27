@@ -68,7 +68,7 @@ spotify-reserved-analysis/
 │   └── 05_financial_impact_model.ipynb
 │
 ├── dashboard/
-│   └── tableau_link.txt               ← Link to published Tableau dashboard
+│   └──📊 <a href="https://public.tableau.com/app/profile/chirag.mendon/viz/SpotifyReservedTicketingAnalysis/SpotifyReserved-ArtistOverviewDashboard?             │            publish=yes">Click Here to View the Interactive Tableau Dashboard</a>
 │
 └── report/
     └── spotify_reserved_insights.pdf  ← Final report (Phase 5)
