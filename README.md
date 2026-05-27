@@ -88,6 +88,17 @@ spotify-reserved-analysis/
 
 ---
 
+## 📊 Interactive Dashboard
+The complete visualization for this project is hosted on Tableau Public. It includes the Artist Overview, Superfan Scoring Model, and Executive KPIs.
+
+<div align="center">
+  <a href="https://public.tableau.com/app/profile/chirag.mendon/viz/SpotifyReservedTicketingAnalysis/SpotifyReserved-ArtistOverviewDashboard?publish=yes">
+    <img src="https://img.shields.io/badge/View_Interactive_Dashboard-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="View Dashboard on Tableau Public" />
+  </a>
+</div>
+
+---
+
 ## How to Run This Project
 
 ```bash
